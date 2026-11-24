@@ -1,0 +1,40 @@
+:root {
+  /* Core Palette: Obsidian Black + Romantic Rose Pink + Crisp Warm White */
+  --bg-obsidian: #0a070b;
+  --bg-velvet: #120c14;
+  --bg-card: rgba(24, 15, 27, 0.78);
+  --bg-card-solid: #180f1b;
+  --bg-card-hover: rgba(34, 20, 38, 0.9);
+  --bg-glass: rgba(14, 9, 16, 0.82);
+
+  --pink-vivid: #ff4f93;
+  --pink-rose: #ff77ad;
+  --pink-blush: #ffb8d6;
+  --pink-soft: #ffe3ef;
+  --pink-glow: rgba(255, 79, 147, 0.28);
+
+  --white-warm: #fff8fb;
+  --white-paper: #fffafc;
+  --ink-dark: #1d111a;
+  --text-primary: #fff5f9;
+  --text-secondary: #e2c8d5;
+  --text-muted: #ae8e9f;
+
+  --border-pink: rgba(255, 130, 180, 0.2);
+  --border-pink-strong: rgba(255, 119, 173, 0.45);
+  --shadow-soft: 0 18px 50px rgba(0, 0, 0, 0.55);
+  --shadow-pink: 0 16px 44px rgba(255, 79, 147, 0.18);
+
+  /* Typography */
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-hand: 'Caveat', cursive;
+  --font-hindi: 'Noto Sans Devanagari', 'Plus Jakarta Sans', sans-serif;
+
+  /* Radii & Spacing */
+  --radius-sm: 12px;
+  --radius-md: 20px;
+  --radius-lg: 28px;
+  --radius-pill: 999px;
+  --max-width: 1180px;
+}
